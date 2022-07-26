@@ -27,6 +27,6 @@ def playMadLibs(filePath):
 
 ###
 # Tests the PlayMadLibs function on the simplest MadLibs text
-#if __name__ == "__main__":
+if __name__ == "__main__":
     # print the resulting text
-print(playMadLibs("MadLibs\simple.txt"))
+    print(playMadLibs("input\simple.txt"))
