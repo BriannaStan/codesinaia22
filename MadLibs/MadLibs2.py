@@ -29,4 +29,4 @@ def playMadLibs(filePath):
 # Tests the PlayMadLibs function on the simplest MadLibs text
 if __name__ == "__main__":
     # print the resulting text
-    print(playMadLibs("input\simple.txt"))
+    print(playMadLibs("Python\Labs\MadLibs\input\simple.txt"))
